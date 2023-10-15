@@ -1,5 +1,5 @@
 const express = require("express");
-const data = require("./data.json");
+const cors = require("cors");
 const coursesRouter = require("./routes/courses");
 const eventsRouter = require("./routes/events");
 const teamRouter = require("./routes/team");
@@ -9,6 +9,7 @@ const jobsRouter = require("./routes/jobs");
 const app = express();
 
 app.use(express.json());
+app.use(cors({ origin: "*" }));
 
 // app.use("/", (req, res) => res.json(data));
 app.use("/courses", coursesRouter);
