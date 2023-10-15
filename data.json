@@ -104,24 +104,24 @@
           "text": "Mattis adipiscing aliquam eu proin metus a iaculis faucibus. Tempus curabitur venenatis, vulputate venenatis fermentum ante. Nisl, amet id semper semper quis commodo, consequat. Massa rhoncus sit morbi odio. Sit maecenas nibh consectetur vel diam. Sem vulputate molestie laoreet at massa sed pharetra. Ac commodo platea id habitasse proin. Nullam sit nec ipsum posuere non. Nam vel aliquam tristique sollicitudin interdum quam. ",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -200,24 +200,24 @@
           "text": "Nam eu nisl semper, congue libero id, ullamcorper metus. Morbi luctus orci vitae pellentesque volutpat. Mauris tristique cursus magna, vitae pretium orci sollicitudin venenatis. Pellentesque gravida sapien nec tortor tempus, vel ornare justo sagittis. Fusce laoreet erat et feugiat lobortis. Integer pharetra sed sem consequat blandit.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -276,24 +276,24 @@
           "text": "Donec scelerisque porta nulla, et auctor lacus lacinia eget. Proin vel purus congue, gravida nisl et, semper leo. Ut placerat ante vitae cursus tempor. Aenean dignissim nibh quis viverra auctor. Nullam porttitor consectetur mauris sit amet facilisis. Suspendisse condimentum dapibus imperdiet. Morbi quis ligula consequat, placerat massa sit amet, consectetur sem. Proin quis semper neque, accumsan gravida metus. Donec eu velit libero.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -392,24 +392,24 @@
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu purus non lorem ultrices euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris tristique purus quis mauris posuere dapibus. Maecenas eu turpis mollis, tristique urna sit amet, bibendum tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -483,29 +483,23 @@
           "text": "Nunc quis mi vitae massa scelerisque sagittis quis et lectus. Donec tempor, diam a aliquet imperdiet, ante diam pharetra ex, nec ultrices arcu augue et libero. Nunc sollicitudin diam non pellentesque tristique. Etiam non elit luctus, lobortis arcu at, tempus nibh. Integer neque nulla, faucibus vitae auctor et, tincidunt et justo.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
-        "listForWhom": [
-          "Specialists with more than 1 year of active work experience",
-          "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
-          "Professional designers who want to feel more confident in UX",
-          "Specialists who would like to structure their knowledge, fill in the gaps"
         ],
         "whatWillULearn": {
           "lessons": [
@@ -559,24 +553,24 @@
           "text": "Pellentesque nec risus mattis, commodo mauris quis, pretium sem. Nam id vehicula turpis. Pellentesque ac posuere nisl. Nam pharetra neque vel facilisis aliquam. Aenean sodales sodales faucibus. Etiam viverra vehicula tellus quis venenatis. Cras ut libero nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -640,24 +634,24 @@
           "text": "Vestibulum id ipsum hendrerit, varius leo egestas, sagittis magna. Nulla iaculis turpis et blandit tristique. Quisque et lectus vitae lacus posuere faucibus. Etiam accumsan, felis in molestie fringilla, nulla lorem tempus velit, eget gravida ante nulla sit amet quam. Quisque interdum sit amet lacus porttitor imperdiet. Sed justo lorem, condimentum quis vulputate nec, bibendum et libero. Sed viverra metus erat, nec pretium arcu sagittis facilisis. Mauris a nibh eu est dapibus facilisis eu sed ex. Morbi sodales id ex sed congue. In tellus risus, aliquam ac sem in, condimentum porta ipsum. Praesent at orci erat. ",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -731,24 +725,24 @@
           "text": "Maecenas sit amet urna quis augue varius pulvinar sit amet quis erat. Quisque eget nisi felis. Proin nibh arcu, gravida eu augue sit amet, fringilla euismod eros. Aenean feugiat dolor libero, eu posuere dolor luctus vel. Quisque facilisis nisl eu euismod feugiat. Nulla in mollis sem. Donec dignissim massa id ultrices tempus. Vivamus in tortor ipsum. Praesent lacus nulla, vehicula feugiat consectetur porttitor, consectetur id ipsum.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
@@ -837,24 +831,24 @@
           "text": "Cras congue magna ac aliquam interdum. Praesent accumsan condimentum dolor non lobortis. Nullam blandit suscipit justo ut porta. Phasellus vitae est sit amet felis tincidunt mollis. Integer laoreet sodales ipsum, a consequat purus interdum semper. Etiam sapien neque, interdum vel massa ut, mollis feugiat enim. Vestibulum eu cursus nunc.",
           "socialMediaLinks": [""]
         },
-        "steps": {
-          "first": {
+        "steps": [
+          {
             "head": "Watching online video lectures",
             "p": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
           },
-          "second": {
+          {
             "head": "Passing test",
             "p": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
           },
-          "third": {
+          {
             "head": "Curator’s feedback",
             "p": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
           },
-          "fourth": {
+          {
             "head": "Corrections if needed",
             "p": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
           }
-        },
+        ],
         "listForWhom": [
           "Specialists with more than 1 year of active work experience",
           "Mobile app designers who want to improve their skills in solving business problems, creating and testing human-centered interfaces",
