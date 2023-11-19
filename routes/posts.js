@@ -10,4 +10,8 @@ router.get("/:id", (req, res) => {
   res.json(data.posts[req.params.id]);
 });
 
+router.get("/content/:id", (req, res) => {
+  res.json(data["posts-content"][req.params.id]);
+});
+
 module.exports = router;
