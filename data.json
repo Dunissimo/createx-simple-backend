@@ -476,7 +476,7 @@
         ],
         "curator": {
           "name": "Guy Hawkins",
-          "job": "Lead graphic designer.",
+          "job": "Lead graphic designer",
           "rating": 4.5,
           "coursesCount": 10,
           "studentsCount": 1000,
@@ -1533,6 +1533,136 @@
       },
       "title": "How to get customers to love your business from the start",
       "p": "Malesuada in augue mi feugiat morbi a aliquet enim. Elementum lacus, pellentesque etiam arcu tristique ac...",
+      "id": 8
+    }
+  ],
+  "posts-content": [
+    {
+      "title": "What is traffic arbitrage and does it really make money?",
+      "type": "podcast",
+      "theme": "Marketing",
+      "date": "September 4, 2022",
+      "duration": "36 min",
+      "img": "traffic.svg",
+      "author": {
+        "name": "Kathryn Murphy",
+        "job": "Analyst and Marketing specialist in IT company",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["marketing", "HR", "self-development"],
+      "id": 1
+    },
+    {
+      "title": "How to choose the first programming language for a beginner",
+      "type": "article",
+      "theme": "Development",
+      "date": "September 1, 2022",
+      "duration": "",
+      "img": "language.svg",
+      "author": {
+        "name": "Brooklyn Simmons",
+        "job": "Curator of Development Course",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["development", "coding", "learning", "self-development"],
+      "id": 2
+    },
+    {
+      "title": "Should you choose a creative profession if you are attracted to creativity?",
+      "type": "video",
+      "theme": "Design",
+      "date": "August 8, 2022",
+      "duration": "40 min",
+      "img": "profession.svg",
+      "author": {
+        "name": "Cody Fisher",
+        "job": "Senior UX designer in IT Product Company",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["design", "learning", "self-development"],
+      "id": 3
+    },
+    {
+      "title": "HR statistics: job search, interviews, hiring and recruiting",
+      "type": "article",
+      "theme": "Design",
+      "date": "August 3, 2022",
+      "duration": "",
+      "img": "statistics.svg",
+      "author": {
+        "name": "Leslie Alexander Li",
+        "job": "Curator of HR & Recruting Course",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["recruting", "stats"],
+      "id": 4
+    },
+    {
+      "title": "What to do and who to talk to if you want to get feedback on the product",
+      "type": "video",
+      "theme": "Management",
+      "date": "August 2, 2022",
+      "duration": "45 min",
+      "img": "feedback.svg",
+      "author": {
+        "name": "Marvin McKinney",
+        "job": "PM, Curator of Management Course",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["management", "learning"],
+      "id": 5
+    },
+    {
+      "title": "What are color profiles and how they work in graphic design",
+      "type": "podcast",
+      "theme": "Design",
+      "date": "July 28, 2022",
+      "duration": "36 min",
+      "img": "profiles.svg",
+      "author": {
+        "name": "Guy Hawkins",
+        "job": "Lead graphic designer",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["design", "learning", "self-development"],
+      "id": 6
+    },
+    {
+      "title": "Startup: how to build a team that will live longer than a year",
+      "type": "video",
+      "theme": "Managemnent",
+      "date": "July 15, 2022",
+      "duration": "45 min",
+      "img": "startup.svg",
+      "author": {
+        "name": "Dianne Russell",
+        "job": "Founder and CEO",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["managemnent", "learning", "self-development"],
+      "id": 7
+    },
+    {
+      "title": "How to get customers to love your business from the start",
+      "type": "article",
+      "theme": "Marketing",
+      "date": "July 9, 2022",
+      "duration": "",
+      "img": "",
+      "author": {
+        "name": "Kathryn Murphy",
+        "job": "Analyst and Marketing specialist in IT company",
+        "socialMediaLinks": []
+      },
+      "content": "",
+      "tags": ["marketing", "learning"],
       "id": 8
     }
   ],
